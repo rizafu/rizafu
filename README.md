@@ -27,5 +27,4 @@ Here are some ideas to get you started:
 ![rizafu's github stats](https://github-readme-stats-phi-blond.vercel.app/api?username=rizafu&theme=dark&show_icons=true) 
 ![rizafu's most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=rizafu&theme=dark&layout=compact)
 [![ReadMe Card](https://github-readme-stats-phi-blond.vercel.app/api/pin/?username=rizafu&repo=CoachMark&theme=dark)](https://github.com/rizafu/CoachMark)
-</br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guh9wlh2hovjdcl4z0jhupu84&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=guh9wlh2hovjdcl4z0jhupu84&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=guh9wlh2hovjdcl4z0jhupu84&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=guh9wlh2hovjdcl4z0jhupu84&redirect=true)
