@@ -14,6 +14,8 @@
 </a>
 </br></br>
 
+![](https://komarev.com/ghpvc/?username=rizafu&style=flat-square)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [tiket.com](https://github.com/tiket) as Sr Android engineer
